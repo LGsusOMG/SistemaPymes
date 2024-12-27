@@ -1,0 +1,69 @@
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.Cache
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+C:\Users\MAESTRO\Documents\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csprojResolveAssemblyReference.cache
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csprojResolveAssemblyReference.cache
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.Cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.dll
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmproveedores.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmusuarios.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmarticulos.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.dll
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmarticulos.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmproveedores.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmusuarios.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.dll
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmarticulos.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmproveedores.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmusuarios.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmVentas.resources

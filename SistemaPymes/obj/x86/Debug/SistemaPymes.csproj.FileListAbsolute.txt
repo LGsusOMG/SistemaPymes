@@ -1,0 +1,444 @@
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.Cache
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+C:\Users\MAESTRO\Documents\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csprojResolveAssemblyReference.cache
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+C:\Users\MAESTRO\documents\visual studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csprojResolveAssemblyReference.cache
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+C:\Users\pc2\Pictures\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.Cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.dll
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmproveedores.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmusuarios.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\pro\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmarticulos.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.dll
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmarticulos.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmproveedores.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmusuarios.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2010\Projects\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.dll
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmarticulos.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmproveedores.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmusuarios.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+C:\Users\jesus\OneDrive\Documentos\Visual Studio 2022\Projects\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmVentas.resources
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.dll
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Form1.resources
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmarticulos.resources
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmproveedores.resources
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmusuarios.resources
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmVentas.resources
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CopyComplete
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe.config
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Memory.dll
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Numerics.Vectors.dll
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Buffers.dll
+D:\Materias\Tercer Semestre\ISOF II\ISOF\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.xml
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe.config
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Memory.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Numerics.Vectors.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Buffers.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.xml
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmarticulos.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmproveedores.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmusuarios.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmVentas.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CopyComplete
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmacceso.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\EnvDTE.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\stdole.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGA.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGC.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGP.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmImpTickets.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmImpFacturas.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmEmpresa.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\SistemaPymes.exe.config
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\SistemaPymes.exe
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\SistemaPymes.pdb
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\MySql.Data.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\EnvDTE.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\System.Memory.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\stdole.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\System.Numerics.Vectors.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\System.Buffers.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\MySql.Data.xml
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmacceso.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmarticulos.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmclientes.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmEmpresa.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmImpFacturas.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmImpTickets.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmmenu.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmproveedores.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGA.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGC.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGP.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmusuarios.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.frmVentas.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CopyComplete
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+D:\Materias\Cuarto Semestre\ISOF III\ISOF\SistemaPymes errores\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SqlServerSpatial160.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe.config
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.exe
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\SistemaPymes.pdb
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\FontAwesome.Sharp.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\EnvDTE.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Memory.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\stdole.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Numerics.Vectors.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\System.Buffers.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\MySql.Data.xml
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmAcceso.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmArqueoFinal.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmArqueoInicial.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmArticulos.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmClientes.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmEmpresa.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGA.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmSushis.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmUsuarios.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmVentas.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaP.0F62F5BB.Up2Date
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.JECustom.JETextBox.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmproveedores.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmMenu.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmReportes.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.JECustom.JEComboBox.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGP.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGS.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRIS.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRV.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRSS.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.AssemblyReference.cache
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmAcceso.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmArqueoFinal.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmArqueoInicial.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmArticulos.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmClientes.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmEmpresa.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmMenu.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmReportes.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGA.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRGS.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRIS.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRSS.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmRV.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmSushis.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmUsuarios.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.frmVentas.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.JECustom.JEComboBox.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.JECustom.JETextBox.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.Properties.Resources.resources
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.GenerateResource.cache
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.csproj.CoreCompileInputs.cache
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.exe
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaPymes.pdb
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\SqlServerSpatial160.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\SistemaPymes.exe.config
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\SistemaPymes.exe
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\SistemaPymes.pdb
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\FontAwesome.Sharp.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\MySql.Data.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\EnvDTE.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\System.Memory.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\stdole.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\System.Numerics.Vectors.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\System.Buffers.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\MySql.Data.xml
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Materias\4 Semestre\ISOF III\ISOF\SistemaPymes 3.05.2024\SistemaPymes\obj\x86\Debug\SistemaP.0F62F5BB.Up2Date

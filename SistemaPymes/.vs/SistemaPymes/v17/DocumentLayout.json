@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|d:\\materias\\4 semestre\\isof iii\\isof\\sistemapymes 3.05.2024\\sistemapymes\\sistemapymes\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|solutionrelative:sistemapymes\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\sistemapymes\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|solutionrelative:sistemapymes\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\sistemapymes\\frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|solutionrelative:sistemapymes\\frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\sistemapymes\\frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|solutionrelative:sistemapymes\\frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\sistemapymes\\clsacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|solutionrelative:sistemapymes\\clsacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\sistemapymes\\clsarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|solutionrelative:sistemapymes\\clsarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\sistemapymes\\miclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589C2D99-663B-43C0-85F0-4EC31C3B9C4D}|SistemaPymes\\SistemaPymes.csproj|solutionrelative:sistemapymes\\miclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jesus\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\ISOF\\SistemaPymes\\SistemaPymes\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jesus\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\ISOF\\SistemaPymes\\sistemapymes\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmproveedores.cs",
+              "DocumentMoniker": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\frmproveedores.cs",
+              "RelativeDocumentMoniker": "SistemaPymes\\frmproveedores.cs",
+              "ToolTip": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\frmproveedores.cs",
+              "RelativeToolTip": "SistemaPymes\\frmproveedores.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:32:06.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmmenu.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\ISOF\\SistemaPymes\\SistemaPymes\\frmmenu.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\ISOF\\SistemaPymes\\SistemaPymes\\frmmenu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:31:57.618Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmproveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\frmproveedores.cs",
+              "RelativeDocumentMoniker": "SistemaPymes\\frmproveedores.cs",
+              "ToolTip": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\frmproveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaPymes\\frmproveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:32:04.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmacceso.cs",
+              "DocumentMoniker": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\frmacceso.cs",
+              "RelativeDocumentMoniker": "SistemaPymes\\frmacceso.cs",
+              "ToolTip": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\frmacceso.cs",
+              "RelativeToolTip": "SistemaPymes\\frmacceso.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:31:56.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmacceso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\frmacceso.cs",
+              "RelativeDocumentMoniker": "SistemaPymes\\frmacceso.cs",
+              "ToolTip": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\frmacceso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaPymes\\frmacceso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:31:57.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsAcceso.cs",
+              "DocumentMoniker": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\ClsAcceso.cs",
+              "RelativeDocumentMoniker": "SistemaPymes\\ClsAcceso.cs",
+              "ToolTip": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\ClsAcceso.cs",
+              "RelativeToolTip": "SistemaPymes\\ClsAcceso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:31:57.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsArticulos.cs",
+              "DocumentMoniker": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\ClsArticulos.cs",
+              "RelativeDocumentMoniker": "SistemaPymes\\ClsArticulos.cs",
+              "ToolTip": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\ClsArticulos.cs",
+              "RelativeToolTip": "SistemaPymes\\ClsArticulos.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:31:57.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmmenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\ISOF\\SistemaPymes\\SistemaPymes\\frmmenu.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\ISOF\\SistemaPymes\\SistemaPymes\\frmmenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-14T19:31:57.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "miclase.cs",
+              "DocumentMoniker": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\miclase.cs",
+              "RelativeDocumentMoniker": "SistemaPymes\\miclase.cs",
+              "ToolTip": "D:\\Materias\\4 Semestre\\ISOF III\\ISOF\\SistemaPymes 3.05.2024\\SistemaPymes\\SistemaPymes\\miclase.cs",
+              "RelativeToolTip": "SistemaPymes\\miclase.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwEsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:31:57.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

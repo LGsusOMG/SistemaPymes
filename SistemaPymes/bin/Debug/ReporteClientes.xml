@@ -1,0 +1,36 @@
+<Clientes>
+  <Clientes>
+    <Codigo>0</Codigo>
+    <RFC>
+    </RFC>
+    <Nombre>Clientes en General</Nombre>
+    <Direccion>
+    </Direccion>
+    <Telefono>
+    </Telefono>
+    <Email>
+    </Email>
+    <Puntos>0</Puntos>
+  </Clientes>
+  <Clientes>
+    <Codigo>1</Codigo>
+    <RFC>qwer</RFC>
+    <Nombre>pepe</Nombre>
+    <Direccion>asedffg</Direccion>
+    <Telefono>1234567890</Telefono>
+    <Email>asdfg@asdf.cx</Email>
+    <Puntos>0</Puntos>
+  </Clientes>
+  <Clientes>
+    <Codigo>2</Codigo>
+    <RFC>
+    </RFC>
+    <Nombre>angie</Nombre>
+    <Direccion>esperanza</Direccion>
+    <Telefono>
+    </Telefono>
+    <Email>
+    </Email>
+    <Puntos>0</Puntos>
+  </Clientes>
+</Clientes>
